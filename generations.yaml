@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_ProAce"
+
+generations:
+  - name: "Second Generation"
+    start_year: 2016
+    end_year: null
+    description: "A van built by Stellantis on the EMP2 platform alongside the Peugeot Expert, with BlueHDi diesels and an electric version."
